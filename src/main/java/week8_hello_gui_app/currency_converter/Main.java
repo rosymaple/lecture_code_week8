@@ -6,5 +6,4 @@ public class Main {
         CurrencyConverter gui = new CurrencyConverter();
 
     }
-
 }
